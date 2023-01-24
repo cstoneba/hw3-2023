@@ -1,5 +1,5 @@
 body{
-    font-family: arial, verdana;
+    font-family: "Arial", "Verdana";
     background-color: #000000;  
     color: #FFFFFF;
     margin:20px 20px 0px 20px;
@@ -86,7 +86,7 @@ div.yellow{
 }
 
 .green{
-    background-color: #008000;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
     border-left: 0px;
@@ -102,9 +102,10 @@ footer{
     border: solid white 5px;
 }
 
-footer > p{
+footer p{
     font-size: 20px;
     text-align: right;
+    padding-left: 0px;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
